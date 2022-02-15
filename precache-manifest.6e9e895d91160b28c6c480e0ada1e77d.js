@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ffc8d056ccdbfa5d12c4527ec947703b",
+    "revision": "e18221c1834de8e8225dd31d074f719c",
     "url": "/ebsi-wallet-wev-client/index.html"
   },
   {
-    "revision": "db4c2c07dd5eca6c5730",
-    "url": "/ebsi-wallet-wev-client/static/css/2.a756f9d1.chunk.css"
+    "revision": "e2f5817b692cd938fabd",
+    "url": "/ebsi-wallet-wev-client/static/css/2.71133d1b.chunk.css"
   },
   {
-    "revision": "45561debf766f8d17537",
-    "url": "/ebsi-wallet-wev-client/static/css/main.3da598ba.chunk.css"
+    "revision": "4f016dc4656e17a5508d",
+    "url": "/ebsi-wallet-wev-client/static/css/main.f574c968.chunk.css"
   },
   {
-    "revision": "db4c2c07dd5eca6c5730",
+    "revision": "e2f5817b692cd938fabd",
     "url": "/ebsi-wallet-wev-client/static/js/2.d906a194.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ebsi-wallet-wev-client/static/js/2.d906a194.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "45561debf766f8d17537",
+    "revision": "4f016dc4656e17a5508d",
     "url": "/ebsi-wallet-wev-client/static/js/main.600d55d2.chunk.js"
   },
   {
