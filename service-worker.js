@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ebsi-wallet-wev-client/precache-manifest.6e9e895d91160b28c6c480e0ada1e77d.js"
+  "/ebsi-wallet-wev-client/precache-manifest.206d2e38c8b73f975ef6d93b0acc14ed.js"
 );
 
 self.addEventListener('message', (event) => {
