@@ -5,7 +5,7 @@ if (!REACT_APP_EBSI_ENV) {
 }
 
 if (
-  !["local", "integration", "development", "production"].includes(
+  !["local", "github", "integration", "development", "production"].includes(
     REACT_APP_EBSI_ENV
   )
 ) {
@@ -40,7 +40,7 @@ const defaultConfig: { [index: string]: any } = {
     REACT_APP_WALLET_API: "https://api.intebsi.xyz/wallet",
     REACT_APP_ID_HUB_API: "https://api.intebsi.xyz/identity-hub",
     REACT_APP_DEMO: "https://app.intebsi.xyz/demo",
-    REACT_APP_EULOGIN: "https://ecas.ec.europa.eu/cas",
+    REACT_APP_EULOGIN: "https://ecas.acceptance.ec.europa.eu/cas",
     DID_API_IDENTIFIERS: "https://api.intebsi.xyz/did/v1/identifiers",
     TRUSTED_ISSUERS_REGISTRY_URL:
       "https://api.intebsi.xyz/trusted-issuers-registry/v1/issuers",
