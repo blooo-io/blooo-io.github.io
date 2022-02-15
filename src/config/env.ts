@@ -25,6 +25,16 @@ const defaultConfig: { [index: string]: any } = {
     TRUSTED_ISSUERS_REGISTRY_URL:
       "https://api.intebsi.xyz/trusted-issuers-registry/v1/issuers",
   },
+  github: {
+    REACT_APP_WALLET: "https://blooo-io.github.io:8080/wallet",
+    REACT_APP_WALLET_API: "https://blooo-io.github.io:9000/wallet",
+    REACT_APP_ID_HUB_API: "https://blooo-io.github.io:9004/identity-hub",
+    REACT_APP_DEMO: "https://app.intebsi.xyz/demo",
+    REACT_APP_EULOGIN: "https://ecas.acceptance.ec.europa.eu/cas",
+    DID_API_IDENTIFIERS: "https://api.intebsi.xyz/did/v1/identifiers",
+    TRUSTED_ISSUERS_REGISTRY_URL:
+      "https://api.intebsi.xyz/trusted-issuers-registry/v1/issuers",
+  },
   integration: {
     REACT_APP_WALLET: "https://app.intebsi.xyz/wallet",
     REACT_APP_WALLET_API: "https://api.intebsi.xyz/wallet",
