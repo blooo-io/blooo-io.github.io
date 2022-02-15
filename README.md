@@ -26,7 +26,7 @@ It has been developed using Create-React-App.
 Clone the repository and move to the project directory
 
 ```sh
-git clone https://ec.europa.eu/cefdigital/code/scm/ebsi/wallet-web-client.git
+git clone https://github.com/blooo-io/ebsi-wallet-web-client.git
 cd wallet-web-client
 ```
 
